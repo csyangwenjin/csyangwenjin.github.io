@@ -85,7 +85,3 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 
 
 <!-- # 💻 Internships -->
-
-# 考勤统计
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='../work_hours_plotter.html' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
