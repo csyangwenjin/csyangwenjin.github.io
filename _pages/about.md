@@ -85,3 +85,6 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 
 
 <!-- # 💻 Internships -->
+
+# 考勤统计
+- [考勤统计](../work_hours_plotter.html)
