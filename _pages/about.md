@@ -42,7 +42,7 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 🌻 [3] Can Zhang, Caiying Xu, **Wenjin Yang**, Yifei Xu, Mingxia Wu, Zhongxun An, and Hengzhao Yang, "An online supercapacitor capacitance labeling method based on tram field data," in *Proceedings of the 2024 IEEE Transportation Electrification Conference and Exposition (ITEC 2024)*, pp. 1-5, 2024. [[PDF]](https//ieeexplore.ieee.org/document/10599036) 
+- 🌻 [3] Can Zhang, Caiying Xu, **Wenjin Yang**, Yifei Xu, Mingxia Wu, Zhongxun An, and Hengzhao Yang, "An online supercapacitor capacitance labeling method based on tram field data," in *Proceedings of the 2024 IEEE Transportation Electrification Conference and Exposition (ITEC 2024)*, pp. 1-5, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10599036) 
 
 </div>
 </div>
@@ -50,7 +50,7 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xyf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 🌻 [2] Yifei Xu, Yingjie Zhang, **Wenjin Yang**, Caiying Xu, Fuhao Wang, and Hengzhao Yang, "A battery state of health prediction framework considering user behavior for on-road electric vehicles," in *Proceedings of the 2024 IEEE Transportation Electrification Conference and Exposition (ITEC 2024)*, pp. 1-6, 2024. [[PDF]](https//ieeexplore.ieee.org/document/10598855) 
+- 🌻 [2] Yifei Xu, Yingjie Zhang, **Wenjin Yang**, Caiying Xu, Fuhao Wang, and Hengzhao Yang, "A battery state of health prediction framework considering user behavior for on-road electric vehicles," in *Proceedings of the 2024 IEEE Transportation Electrification Conference and Exposition (ITEC 2024)*, pp. 1-6, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10598855) 
 
 </div>
 </div>
