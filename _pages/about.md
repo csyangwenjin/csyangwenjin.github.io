@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🤠 About Me
-I am a third year graduate student from [ShanghaiTech University](https://www.shanghaitech.edu.cn). I recieved my B.S. degree in Computer Science from ShanghaiTech University, Shanghai, in Summer 2022. I am currently working toward the M.S. degree in Computer Science with the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn)), ShanghaiTech University, Shanghai, China. My research interests include:
+# 🤠 About Us
+We are a graduate student group from [ShanghaiTech University](https://www.shanghaitech.edu.cn). We are currently working toward the M.S. degree with the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn)), ShanghaiTech University, Shanghai, China. Our research interests include:
 - **AI for Energy (AI4E)**, especially for batteries
 - **State of health (SOH) estimation**
 - **Remaining useful life (RUL) prediction**
