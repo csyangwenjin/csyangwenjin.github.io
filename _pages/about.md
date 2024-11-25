@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤠 About Me
-I am a second year graduate student from [ShanghaiTech University](https://www.shanghaitech.edu.cn). I recieved my B.S. degree in Computer Science from ShanghaiTech University, Shanghai, in Summer 2022. I am currently working toward the M.S. degree in Computer Science with the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn)), ShanghaiTech University, Shanghai, China. My research interests include:
+I am a third year graduate student from [ShanghaiTech University](https://www.shanghaitech.edu.cn). I recieved my B.S. degree in Computer Science from ShanghaiTech University, Shanghai, in Summer 2022. I am currently working toward the M.S. degree in Computer Science with the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn)), ShanghaiTech University, Shanghai, China. My research interests include:
 - **AI for Energy (AI4E)**, especially for batteries
 - **State of health (SOH) estimation**
 - **Remaining useful life (RUL) prediction**
@@ -29,7 +29,7 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎊🎊 We won the second prize in the 19th Challenge Cup national competition！
+- *2024.11*: &nbsp;🎊🎊 We won the second prize in the 19th Challenge Cup national competition！([URL](https://www.shanghaitech.edu.cn/2024/1125/c1001a1103608/page.htm))
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by ITEC 2024!
 - *2023.04*: &nbsp;🎊🎊 One paper is accepted by EPE 2023!
 
