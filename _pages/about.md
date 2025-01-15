@@ -40,7 +40,7 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 (🌸 first author [1 paper] / 🌻 co-author [2 papers])
 
 ## 2025
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/tpel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - 🌻 [4] **Wenjin Yang**, Fanqi Min, Jingying Xie, and Hengzhao Yang, "Ultra-early prediction of lithium-ion battery cycle life based on visualized single-cycle data," IEEE Transactions on Power Electronics, in press.
