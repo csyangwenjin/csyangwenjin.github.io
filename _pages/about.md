@@ -37,7 +37,7 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 
 # 📝 Publications 
 
-(🌸 first author [1 paper] / 🌻 co-author [2 papers])
+(🌸 first author [2 papers] / 🌻 co-author [2 papers])
 
 ## 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL</div><img src='images/tpel.png' alt="sym" width="100%"></div></div>
