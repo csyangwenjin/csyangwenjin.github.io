@@ -43,7 +43,7 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL</div><img src='images/tpel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 🌸 [4] **Wenjin Yang**, Fanqi Min, Jingying Xie, and Hengzhao Yang, "Ultra-early prediction of lithium-ion battery cycle life based on visualized single-cycle data," IEEE Transactions on Power Electronics, in press. （中科院1区）
+- 🌸 [4] **Wenjin Yang**, Fanqi Min, Jingying Xie, and Hengzhao Yang, "Ultra-early prediction of lithium-ion battery cycle life based on visualized single-cycle data," IEEE Transactions on Power Electronics, early access. [[PDF]](https://doi.org/10.1109/TPEL.2025.3531791)（中科院1区）
 
 </div>
 </div>
