@@ -29,8 +29,9 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 
 
 # 🔥 News
-- *2025.02*：&nbsp;🎊🎊 **One paper is accepted by Journal of Power Sources.**
-- *2025.01*：&nbsp;🎉🎉 **One paper is accepted by IEEE Transactions on Power Electronics.**
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ITEC 2025!
+- *2025.02*：&nbsp;🎊🎊 **One paper is accepted by Journal of Power Sources!**
+- *2025.01*：&nbsp;🎉🎉 **One paper is accepted by IEEE Transactions on Power Electronics!**
 - *2024.11*: &nbsp;🎊🎊 We won the second prize in the 19th Challenge Cup national competition！[[URL]](https://www.shanghaitech.edu.cn/2024/1125/c1001a1103608/page.htm)
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by ITEC 2024!
 - *2023.04*: &nbsp;🎊🎊 One paper is accepted by EPE 2023!
@@ -38,9 +39,11 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 
 # 📝 Publications 
 
-(🌸 first author [3 papers] / 🌻 co-author [2 papers])
+(🌸 first author [3 papers] / 🌻 co-author [3 papers])
 
 ## 2025
+- 🌸 [6] Jiaqi Zhao, Song Feng, Caiying Xu, Yifei Xu, **Wenjin Yang**, and Hengzhao Yang, "A cross-layer multi-fault diagnosis framework for electric vehicle batteries," in Proceedings of the 2025 IEEE Transportation Electrification Conference and Exposition (ITEC 2025), in press.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPS</div><img src='images/jps_revision_flowchart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
