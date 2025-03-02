@@ -57,7 +57,7 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 
 
 ## 2025
-- 🌸 [4] Jiaqi Zhao, Song Feng, Caiying Xu, Yifei Xu, **Wenjin Yang**, and Hengzhao Yang, "A cross-layer multi-fault diagnosis framework for electric vehicle batteries," in Proceedings of the 2025 IEEE Transportation Electrification Conference and Exposition (ITEC 2025), in press.
+- 🌻 [4] Jiaqi Zhao, Song Feng, Caiying Xu, Yifei Xu, **Wenjin Yang**, and Hengzhao Yang, "A cross-layer multi-fault diagnosis framework for electric vehicle batteries," in Proceedings of the 2025 IEEE Transportation Electrification Conference and Exposition (ITEC 2025), in press.
   
 ## 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
