@@ -39,7 +39,7 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 
 # 📝 Publications 
 (🌸 first author [3 papers] / 🌻 co-author [3 papers] )
-## Journal Papers
+## Journal Articles
 ### 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPS</div><img src='images/jps_revision_flowchart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
