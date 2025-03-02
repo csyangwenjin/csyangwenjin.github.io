@@ -38,16 +38,11 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 
 
 # 📝 Publications 
-
-(🌸 first author [3 papers] / 🌻 co-author [3 papers])
-
-## 2025
-- 🌸 [6] Jiaqi Zhao, Song Feng, Caiying Xu, Yifei Xu, **Wenjin Yang**, and Hengzhao Yang, "A cross-layer multi-fault diagnosis framework for electric vehicle batteries," in Proceedings of the 2025 IEEE Transportation Electrification Conference and Exposition (ITEC 2025), in press.
-
+(🌸 first author [3 papers] / 🌻 co-author [3 papers] )
+## Journal Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPS</div><img src='images/jps_revision_flowchart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-- 🌸 [5] **Wenjin Yang** and Hengzhao Yang, "Ultra-early prediction of lithium-ion battery cycle life based on assembled capacity curve extracted from a single cycle," Journal of Power Sources, in press.（中科院二区Top, IF=8.1）
+- 🌸 [2] **Wenjin Yang** and Hengzhao Yang, "Ultra-early prediction of lithium-ion battery cycle life based on assembled capacity curve extracted from a single cycle," Journal of Power Sources, in press.（中科院二区Top, IF=8.1）
 
 </div>
 </div>
@@ -55,13 +50,16 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL</div><img src='images/tpel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 🌸 [4] **Wenjin Yang**, Fanqi Min, Jingying Xie, and Hengzhao Yang, "Ultra-early prediction of lithium-ion battery cycle life based on visualized single-cycle data," IEEE Transactions on Power Electronics, vol. 40, no. 5, pp. 7342-7353, 2025. [[PDF]](https://doi.org/10.1109/TPEL.2025.3531791)（中科院一区Top, IF=6.6）
+- 🌸 [1] **Wenjin Yang**, Fanqi Min, Jingying Xie, and Hengzhao Yang, "Ultra-early prediction of lithium-ion battery cycle life based on visualized single-cycle data," IEEE Transactions on Power Electronics, vol. 40, no. 5, pp. 7342-7353, 2025. [[PDF]](https://doi.org/10.1109/TPEL.2025.3531791)（中科院一区Top, IF=6.6）
 
 </div>
 </div>
 
+
+## 2025
+- 🌸 [4] Jiaqi Zhao, Song Feng, Caiying Xu, Yifei Xu, **Wenjin Yang**, and Hengzhao Yang, "A cross-layer multi-fault diagnosis framework for electric vehicle batteries," in Proceedings of the 2025 IEEE Transportation Electrification Conference and Exposition (ITEC 2025), in press.
+  
 ## 2024
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
