@@ -30,8 +30,8 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ITEC 2025!
-- *2025.02*：&nbsp;🎊🎊 One paper is accepted by Journal of Power Sources!
-- *2025.01*：&nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Power Electronics!
+- *2025.02*：&nbsp;🎊🎊 **One paper is accepted by Journal of Power Sources!**
+- *2025.01*：&nbsp;🎉🎉 **One paper is accepted by IEEE Transactions on Power Electronics!**
 - *2024.11*: &nbsp;🎊🎊 We won the second prize in the 19th Challenge Cup national competition！[[URL]](https://www.shanghaitech.edu.cn/2024/1125/c1001a1103608/page.htm)
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by ITEC 2024!
 - *2023.04*: &nbsp;🎊🎊 One paper is accepted by EPE 2023!
