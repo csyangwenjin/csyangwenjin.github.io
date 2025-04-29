@@ -43,7 +43,7 @@ I am a third year graduate student from [ShanghaiTech University](https://www.sh
 ### 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPS</div><img src='images/jps_revision_flowchart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- 🌸 [2] **Wenjin Yang** and Hengzhao Yang, "Ultra-early prediction of lithium-ion battery cycle life based on assembled capacity curve extracted from a single cycle," Journal of Power Sources, vol. 640, p. 236620, 2025. [[PDF]](https://doi.org/10.1016/j.jpowsour.2025.236620)（中科院二区Top, IF=8.1）
+- 🌸 [2] **Wenjin Yang** and Hengzhao Yang, "Ultra-early prediction of lithium-ion battery cycle life based on assembled capacity curve extracted from a single cycle," Journal of Power Sources, vol. 640, p. 236620, 2025. [[PDF]](https://doi.org/10.1016/j.jpowsour.2025.236620)（JCR Q1, IF=8.1）
 
 </div>
 </div>
