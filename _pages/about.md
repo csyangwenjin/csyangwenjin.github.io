@@ -106,7 +106,7 @@ I received my B.S. degree in Computer Science and Technology from [ShanghaiTech 
 
 
 # 🏫 Educations
-- *2022.09 - 2025.06*, M.S., Computer Science, ShanghaiTech University
+- *2022.09 - 2025.06*, M.S., Computer Science, ShanghaiTech University (Outstanding Graduate Award)
 - *2018.09 - 2022.06*, B.S., Computer Science, ShanghaiTech University
 
 
