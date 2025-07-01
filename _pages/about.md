@@ -38,7 +38,7 @@ I received my B.S. degree in Computer Science and Technology from [ShanghaiTech 
 
 
 # 📝 Publications 
-(🌸 first author [3 papers] / 🌻 co-author [3 papers] )
+(🌸 first author [3 papers] / 🌻 co-author [4 papers] )
 ## Journal Articles
 ### 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPS</div><img src='images/jps_revision_flowchart.jpg' alt="sym" width="100%"></div></div>
@@ -58,6 +58,8 @@ I received my B.S. degree in Computer Science and Technology from [ShanghaiTech 
 
 ## Conference Papers
 ### 2025
+- 🌻 [5] Yuhong Fan, Song Feng, Yifei Xu#, Jiaqi Zhao, Caiying Xu, **Wenjin Yang**, and Hengzhao Yang, "A self-discharge fault diagnosis method for electric vehicle batteries," in Proceedings of the 2025 IEEE 16th International Symposium on Power Electronics for Distributed Generation Systems (PEDG 2025), in press.
+  
 - 🌻 [4] Jiaqi Zhao, Song Feng, Caiying Xu, Yifei Xu, **Wenjin Yang**, and Hengzhao Yang, "A cross-layer multi-fault diagnosis framework for electric vehicle batteries," in Proceedings of the 2025 IEEE Transportation Electrification Conference and Exposition (ITEC 2025), in press.
   
 ### 2024
@@ -89,7 +91,8 @@ I received my B.S. degree in Computer Science and Technology from [ShanghaiTech 
 
 # 📜 Patents
 
-(🌸 Student first author [3 patents] / 🌻 Co-author [3 patents])
+(🌸 Student first author [4 patents] / 🌻 Co-author [3 patents])
+- 🌸 [P7] 杨恒昭, **杨文进**, "异质不间断电源集群的状态评估方法和相关装置," 中国发明专利申请, 申请号202510844074.1, 2025.
 - 🌸 [P6] 杨恒昭, **杨文进**, "基于图像化单循环采样量的电池寿命预测方法和相关装置," 中国发明专利申请, 申请号202411882164.1, 2024.
 - 🌻 [P5] 杨恒昭, 赵佳琪, 徐彩莹, 徐艺菲, **杨文进**, "一种基于分层识别的车辆动力电池故障诊断方法," 中国发明专利申请, 申请号202411634580.X, 2024.
 - 🌻 [P4] 杨恒昭, 张灿, 徐彩莹, 黄廷立, 安仲勋, 吴明霞, **杨文进**, 徐艺菲, "适用于载运工具中超级电容供能系统的容值标定方法," 中国发明专利申请, 申请号202410615364.4, 2024.
