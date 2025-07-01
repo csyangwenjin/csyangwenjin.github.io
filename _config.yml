@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ity# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenjin Yang"
   avatar           : "images/logo.jpg"
-  bio              : "ShanghaiTech Uni."
+  bio              : "ShanghaiTech University"
   location         : "Fujian, China"
   employer         : "CATL"
   pubmed           : 
