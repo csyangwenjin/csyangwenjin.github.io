@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenjin Yang"
-description              : "AI|Batteries|AI4S"
+description              : "AI | Batteries | AI4S"
 repository               : ""
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenjin Yang"
   avatar           : "images/logo.jpg"
-  bio              : "Computer Science|ShanghaiTech Uni."
+  bio              : "ShanghaiTech Uni."
   location         : "Fujian, China"
   employer         : "CATL"
   pubmed           : 
