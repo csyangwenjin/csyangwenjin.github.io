@@ -98,6 +98,7 @@ I received my B.S. degree in Computer Science and Technology from [ShanghaiTech 
 - 🌸 [P1] 杨恒昭, **杨文进**, "一种用于电动汽车的充电调度方法与系统," 中国发明专利申请, 申请号202310560594.0, 2023.
 
 # 🏅 Honors and Awards
+- *2025.05*, Outstanding Student, ShanghaiTech University
 - *2024.11*, Second Prize in the 19th Challenge Cup National Competition
 - *2024.11*, Graduate Academic Scholarship
 - *2023.10*, Graduate Academic Scholarship
@@ -105,7 +106,7 @@ I received my B.S. degree in Computer Science and Technology from [ShanghaiTech 
 
 
 # 🏫 Educations
-- *2022.09 - now*, M.S., Computer Science, ShanghaiTech University
+- *2022.09 - 2025.06*, M.S., Computer Science, ShanghaiTech University
 - *2018.09 - 2022.06*, B.S., Computer Science, ShanghaiTech University
 
 
