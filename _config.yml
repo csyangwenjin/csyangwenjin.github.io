@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenjin Yang"
-description              : "Energy Storage Lab (ESL) Member"
+description              : "ShanghaiTech University"
 repository               : ""
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenjin Yang"
   avatar           : "images/logo.jpg"
-  bio              : "M.S. Student in Computer Science 💻"
-  location         : "Shanghai, China"
-  employer         : "ShanghaiTech University"
+  bio              : "Engineer 💻"
+  location         : "Fujian, China"
+  employer         : "CATL"
   pubmed           : 
   googlescholar    : # ""
-  email            : "yangwj2022@shanghaitech.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "csyangwenjin@outlook.com; yangwj2022@shanghaitech.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Wenjin-Yang-8?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
